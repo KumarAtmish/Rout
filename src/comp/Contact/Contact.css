@@ -1,0 +1,9 @@
+.contact {
+  width: 100%;
+  height: 300px;
+  background: #19c9b1;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
